@@ -1,4 +1,5 @@
-# Javascript-html-projects
+# Javascript-html-projects #1
+,,Sudoku Solver"
 
 
 Aplication working useing frameworks like: Node.js Express.js MongoDB, Bcrypt. 
